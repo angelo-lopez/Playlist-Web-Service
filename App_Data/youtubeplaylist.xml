@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<youtubeplaylist>
+  <client nickname="angelo">
+    <playlist playname="SOAP Web Service Basics by Java Brains">
+      <score>0</score>
+      <votecount>0</votecount>
+      <track id="23a2145e-493d-439e-8eb0-a83ae5b2e10f">
+        <title>SOAP Web Services 01 - Introduction To Web Services</title>
+        <location>https://youtu.be/mKjvKPlb1rA?list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39</location>
+        <duration>11:19</duration>
+        <rank>
+        </rank>
+      </track>
+      <track id="69485c24-5091-46d5-8c3d-606afa9c631b">
+        <title>SOAP Web Services 02 - Web Service Jargon</title>
+        <location>https://youtu.be/C53G6R5EVys?list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39</location>
+        <duration>15:04</duration>
+        <rank>
+        </rank>
+      </track>
+      <track id="070ad8eb-313f-4540-bc10-d6c833020e17">
+        <title>SOAP Web Services 03 - Writing a Web service Client: Stub generation</title>
+        <location>https://youtu.be/6hqDMS-oJ9k?list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39</location>
+        <duration>13:03</duration>
+        <rank>
+        </rank>
+      </track>
+    </playlist>
+    <playlist playname="Spring Framework by Java Brains">
+      <score>0</score>
+      <votecount>0</votecount>
+      <track id="e1800bbc-c476-42b8-8a21-a1a0dfb466ed">
+        <title>Spring Tutorial 01 - Understanding Dependency Injection</title>
+        <location>https://youtu.be/GB8k2-Egfv0?list=PLC97BDEFDCDD169D7</location>
+        <duration>14:51</duration>
+        <rank>
+        </rank>
+      </track>
+      <track id="01563b4a-bb80-47c1-942f-cc2d1590e5ed">
+        <title>Spring Tutorial 02 - Setting Up</title>
+        <location>https://youtu.be/Z5gubdHLJIc?list=PLC97BDEFDCDD169D7</location>
+        <duration>3:47</duration>
+        <rank>
+        </rank>
+      </track>
+      <track id="3495d7a4-4b70-44ed-9519-64633d536a8a">
+        <title>Spring Tutorial 03 - Understanding Spring Bean Factory</title>
+        <location>https://youtu.be/xlWwMSu5I70?list=PLC97BDEFDCDD169D7</location>
+        <duration>6:52</duration>
+        <rank>
+        </rank>
+      </track>
+    </playlist>
+  </client>
+  <client nickname="fred">
+    <playlist playname="web services">
+      <score>0</score>
+      <votecount>0</votecount>
+      <track id="a7592834-e4b7-4d27-948c-07e11d3158db">
+        <title>Part 1 Introduction to asp net web services</title>
+        <location>https://youtu.be/xzJm0lPIoJY?list=PL6n9fhu94yhW6VEqiXQvS2bLb5KaLTo7c</location>
+        <duration>15:14</duration>
+        <rank>
+        </rank>
+      </track>
+      <track id="736cdda4-5699-4424-a039-b2ccad8c7bd2">
+        <title>Part 2 Consuming a web service</title>
+        <location>https://youtu.be/ycKnYOlQDEE?list=PL6n9fhu94yhW6VEqiXQvS2bLb5KaLTo7c</location>
+        <duration>15:46</duration>
+        <rank>
+        </rank>
+      </track>
+      <track id="1b394da8-275b-4091-9fd0-b36da6bbc1c3">
+        <title>Part 3 Using ASP NET Session State in a Web Service</title>
+        <location>https://youtu.be/gq1Yt11brps?list=PL6n9fhu94yhW6VEqiXQvS2bLb5KaLTo7c</location>
+        <duration>15:41</duration>
+        <rank>
+        </rank>
+      </track>
+    </playlist>
+    <playlist playname="html5">
+      <score>0</score>
+      <votecount>0</votecount>
+      <track id="fe1a57c0-cc0c-4e49-8290-5a30eca3a139">
+        <title>HTML5 Tutorial - 1 - Introduction</title>
+        <location>https://youtu.be/Mp0f0zTPLec?list=PLFDBD4552A987C381</location>
+        <duration>4:16</duration>
+        <rank>
+        </rank>
+      </track>
+      <track id="7c1a6777-3caa-492e-969e-e9319cad0560">
+        <title>HTML5 Tutorial - 2 - Creating a Basic Template</title>
+        <location>https://youtu.be/qseNjA-73Fw?list=PLFDBD4552A987C381</location>
+        <duration>7:22</duration>
+        <rank>
+        </rank>
+      </track>
+      <track id="e8dfd72b-1b04-4bf1-baab-c9d8cd5ea3ff">
+        <title>HTML5 Tutorial - 3 - Setting up the body</title>
+        <location>https://youtu.be/eDR7zpVfX_4?list=PLFDBD4552A987C381</location>
+        <duration>8:53</duration>
+        <rank>
+        </rank>
+      </track>
+    </playlist>
+  </client>
+  <client nickname="romel">
+    <playlist playname="ps1">
+      <score>0</score>
+      <votecount>0</votecount>
+      <track id="b2f06f9d-fb95-4548-a9fa-a68adcc9a9cd">
+        <title>track 1</title>
+        <location>location 1</location>
+        <duration>01:00</duration>
+        <rank>
+        </rank>
+      </track>
+    </playlist>
+  </client>
+</youtubeplaylist>
